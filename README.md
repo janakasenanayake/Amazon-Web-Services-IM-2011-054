@@ -56,3 +56,5 @@ And did the hands on practicals using amazon web services by creating an account
   
   https://www.youtube.com/watch?v=x2NGfd3eEOY&index=6&list=PLWs8vxtHcFwwn_s0sGgDPD0UZaxl9H9B_
 
+Materials : https://drive.google.com/folderview?id=0BxliB42HlluDLURJSGxlTzd1S1k&usp=sharing
+
